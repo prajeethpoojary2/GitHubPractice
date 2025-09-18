@@ -49,3 +49,9 @@ function nameGreeting(name:string) {
     return `Hello welcome to code craft ,${name}` 
     
 }
+
+
+function sum(num1: number, num2: number): number{
+    let res = num1+num2;
+    return res;
+}
