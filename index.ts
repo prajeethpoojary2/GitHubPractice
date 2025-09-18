@@ -49,3 +49,30 @@ function nameGreeting(name:string) {
     return `Hello welcome to code craft ,${name}` 
     
 }
+
+console.log("Hello");
+
+
+
+hi helloe how are you
+
+
+function sum(num1: number, num2: number): number{
+    let res = num1+num2;
+    return res;
+}
+
+function product(num1: number, num2: number): number{
+    let res = num1*num2;
+    return res
+}
+function difference(num1: number, num2: number): number{
+    let res = num1-num2;
+    return res
+}
+function division(num1: number, num2: number): number{
+    let res = num1/num2;
+    return res
+}
+
+
