@@ -22,3 +22,16 @@ const myMobile:Mobile = {
         return "Mobile flash is Off!";
     },
 };
+
+const newMobile:Mobile = {
+    brand: 'Samsung',
+    color: "grey",
+    model: "A 22",
+    flashOn() {
+        return "Mobile flash is On!";
+    },
+    flashOff() {
+        return "Mobile flash is Off!";
+    },
+    weight: 0.18;
+}
