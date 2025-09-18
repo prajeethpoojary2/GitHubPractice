@@ -33,5 +33,12 @@ const newMobile:Mobile = {
     flashOff() {
         return "Mobile flash is Off!";
     },
-    weight: 0.18;
+    weight: 0.18
+}
+console.log("Hello via Bun!");
+
+function nameGreeting(name:string) {
+
+    return `Hello welcome to code craft ,${name}` 
+    
 }
