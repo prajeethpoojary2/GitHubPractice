@@ -35,6 +35,13 @@ const newMobile:Mobile = {
     },
     weight: 0.18
 }
+
+
+function p(){
+
+}
+
+
 console.log("Hello via Bun!");
 
 function nameGreeting(name:string) {
