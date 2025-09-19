@@ -66,7 +66,7 @@ console.log("Hello");
 
 
 
-hi helloe how are you
+//hi helloe how are you
 
 
 function sum(num1: number, num2: number): number{
